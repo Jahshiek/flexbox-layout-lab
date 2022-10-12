@@ -22,3 +22,15 @@ header{
     border-radius:50%
 }
 
+.row3{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.article{
+    flex-grow: 1;
+}
+
+.article2{
+    flex-grow: 3;
+}
