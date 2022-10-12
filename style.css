@@ -28,9 +28,9 @@ header{
 }
 
 .article{
-    flex-grow: 1;
+    flex-shrink: 2;
 }
 
 .article2{
-    flex-grow: 3;
+    ;
 }
